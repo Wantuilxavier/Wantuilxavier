@@ -7,7 +7,7 @@ Opa, meu nome é Wantuil, e resolvo problemas utilizando Linux, estou entrando n
 
 <p align="center">
   <a href="https://github.com/Wantuilxavier?tab=followers">
-    <img src="https://img.shields.io/github/followers/badtuxx?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Wantuilxavier?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/badtux_">
     <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
