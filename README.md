@@ -1,5 +1,5 @@
 ### Opa! tudo bem?
-Opa, meu nome é Wantuil, e resolvo problemas utilizando Linux, estou entrando no mundo de container, Kubernets, e DevOps.
+Meu nome é Wantuil, e resolvo problemas utilizando Linux, estou entrando no mundo de container, Kubernets, e DevOps.
 
 - :rocket: Atualmente trabalho como sysadmin, administrando redes, e servidores, e mudando a cultura da empresa, e principalmente a minha.
 
