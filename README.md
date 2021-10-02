@@ -10,7 +10,7 @@ Opa, meu nome é Wantuil, e resolvo problemas utilizando Linux, estou entrando n
     <img src="https://img.shields.io/github/followers/Wantuilxavier?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/wantuilxavier">
-    <img src="https://img.shields.io/twitter/follow/wantuilxaier?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/wantuilxavier?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
    <a href="https://instagram.com/wantuilxavier" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
