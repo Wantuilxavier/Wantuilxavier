@@ -9,11 +9,11 @@ Opa, meu nome é Wantuil, e resolvo problemas utilizando Linux, estou entrando n
   <a href="https://github.com/Wantuilxavier?tab=followers">
     <img src="https://img.shields.io/github/followers/Wantuilxavier?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/badtux_">
-    <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/wantuilxavier">
+    <img src="https://img.shields.io/twitter/follow/wantuilxaier?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=YouTube&logo=YouTube&style=for-the-badge" />
+   <a href="https://instagram.com/wantuilxavier" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </p>
 
