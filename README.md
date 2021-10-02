@@ -15,6 +15,12 @@ Opa, meu nome é Wantuil, e resolvo problemas utilizando Linux, estou entrando n
    <a href="https://instagram.com/wantuilxavier" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+  <a href = "mailto:wantuil.xavier@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/wantuil-toledo-2a8ba77a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </p>
 
 <!--
